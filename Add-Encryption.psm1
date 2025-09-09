@@ -1,0 +1,1 @@
+.$PSScriptRoot\Add-Encryption.ps1
